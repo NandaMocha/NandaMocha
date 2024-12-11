@@ -26,9 +26,3 @@
 ##  🔥 **Git Streak** 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandaMocha)](https://git.io/streak-stats)
-
----
-
- ✨ _“Code is like humor. When you have to explain it, it’s bad.”_ – **Cory House**   
-
----
