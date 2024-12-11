@@ -1,5 +1,5 @@
 
-##  Hi Guys, Greetings! 👋 
+##  Hi Guys, I am Nanda Mochammad! 👋 
 <p align="left">  
    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />   
    <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />   
