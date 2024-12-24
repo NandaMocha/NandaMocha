@@ -27,4 +27,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandaMocha)](https://git.io/streak-stats)
 
-## Features <a id='ssFeatures'></a>
+---
+
+##  Best Regards, Nanda Mochammad 🤝
