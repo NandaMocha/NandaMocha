@@ -14,7 +14,7 @@
 
 ---
 
-##  🚀 **About Me -> Nanda Mochammad  ** 
+##  🚀 About Me -> Nanda Mochammad  
 
 -  📱 **iOS Developer** with **6 years** in the IT industry.   
 -  🛠 Skilled in **Swift**, **SwiftUI**, **MVVM**, and **VIPER**.   
@@ -23,6 +23,6 @@
 
 ---
 
-##  🔥 **Git Streak** 
+##  🔥 Git Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandaMocha)](https://git.io/streak-stats)
