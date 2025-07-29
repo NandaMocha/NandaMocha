@@ -1,28 +1,60 @@
+# 🌌 Welcome to Nanda Mochammad's Code Galaxy! 🚀
 
-##  Hi Guys, I am Nanda Mochammad! 👋 
-<p align="left">  
-   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" alt="Swift" />   
-   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" alt="SwiftUI" />   
-   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" alt="Xcode" />   
-   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />   
-   <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white" alt="RxSwift" />   
-</p>
+Hey there, cosmic coder! I'm **Nanda Mochammad**, an iOS Developer who turns coffee into sleek, user-friendly apps. Buckle up and explore my GitHub universe! 🌟
 
-<p align="left">  
-   <img src="https://komarev.com/ghpvc/?username=NandaMocha" alt="NandaMocha" />   
-</p>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D7?style=flat&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=reactivex&logoColor=white)
+
+## 🎉 Who’s This Guy?
+
+- 📱 **iOS Sorcerer** with **6 years** of spellbinding experience in the IT realm.
+- 🛠 **Tech Stack**: Swift, SwiftUI, MVVM, VIPER – my magic wands for crafting epic apps.
+- 🧼 **Code Mantra**: Clean code or bust! I’m all about **SOLID** and **DRY** principles.
+- ✅ **Testing Ninja**: TDD, Unit Testing, UI Testing – I slay bugs like a pro.
+- 🌍 **Remote Trailblazer**: Coding from anywhere, fueled by coffee and Wi-Fi. ☕
+
+## 🧰 My Tech Toolbox
+
+```
++-------------------+
+|  Swift   SwiftUI  |
+|  Xcode   RxSwift  |
+|  MVVM    VIPER    |
+|  TDD    MapKit    |
+|  Git    CleanCode |
++-------------------+
+```
+
+## 🔥 GitHub Streak of Awesomeness
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandaMocha&theme=dark&hide_border=true)
+
+
+## 🎯 Fun Facts About Me
+
+- 🚀 I once debugged a crash *while* sipping coffee... and didn’t spill a drop!
+- 🎮 Secret hobby: Building mini-games in SwiftUI for funsies.
+- 🧠 Motto: *“If the code isn’t clean, is it even code?”*
+
+## 💬 Dev Wisdom of the Day
+
+> "Code is like a good joke: it only works if it’s clean and well-delivered." 😜
+
+*Feeling inspired? Drop a ⭐ on my repos or fork something to add your own twist!*
+
+## 🌈 Let’s Connect!
+
+- 📧 Ping me on GitHub (email’s so last century, right?).
+- 🐦 Catch my coding rants in the dev multiverse.
+- 💻 Want to collab? I’m game for building the next big app or just geeking out over SwiftUI.
+
+> ✨ **Pro Tip**: Life’s too short for bad code. Let’s make it clean, fun, and functional!
+
+Thanks for zooming into my GitHub galaxy! Let’s code something out-of-this-world together. 🚀
 
 ---
 
-##  🚀 About Me -  
-
--  📱 **iOS Developer** with **6 years** in the IT industry.   
--  🛠 Skilled in **Swift**, **SwiftUI**, **MVVM**, and **VIPER**.   
--  🧼 Passionate about clean code following **SOLID** and **DRY** principles.   
--  ✅ Experience with **TDD**, **Unit Testing**, and **UI Testing**.   
-
----
-
-##  🔥 Git Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NandaMocha)](https://git.io/streak-stats)
+© 2025 NandaMocha, Inc. 😎 *Powered by caffeine and clean code.*
