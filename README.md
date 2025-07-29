@@ -57,4 +57,4 @@ Thanks for zooming into my GitHub galaxy! Let’s code something out-of-this-wor
 
 ---
 
-© 2025 NandaMocha, Inc. 😎 *Powered by caffeine and clean code.*
+© 2025 NandaMochammad, Inc. 😎 *Powered by caffeine and clean code.*
