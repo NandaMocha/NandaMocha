@@ -1,4 +1,4 @@
-# 🌌 Welcome to Nanda Mochammad's Code Galaxy! 🚀
+# 🌌 Welcome to My Code Galaxy! 🚀
 
 Hey there, cosmic coder! I'm **Nanda Mochammad**, an iOS Developer who turns coffee into sleek, user-friendly apps. Buckle up and explore my GitHub universe! 🌟
 
@@ -23,8 +23,8 @@ Hey there, cosmic coder! I'm **Nanda Mochammad**, an iOS Developer who turns cof
 |  Swift   SwiftUI  |
 |  Xcode   RxSwift  |
 |  MVVM    VIPER    |
-|  TDD    MapKit    |
-|  Git    CleanCode |
+|  TDD     MapKit   |
+| Combine  CleanCode|
 +-------------------+
 ```
 
