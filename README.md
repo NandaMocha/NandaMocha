@@ -19,13 +19,13 @@ Hey there, cosmic coder! I'm **Nanda Mochammad**, an iOS Developer who turns cof
 ## 🧰 My Tech Toolbox
 
 ```
-+-------------------+
-|  Swift   SwiftUI  |
-|  Xcode   RxSwift  |
-|  MVVM    VIPER    |
-|  TDD     MapKit   |
-| Combine  CleanCode|
-+-------------------+
++-------------------+   +-------------------+
+|     iOS Mantra    |   |  AI - NLP Mantra  |
+|  Swift   SwiftUI  |   |  Colab   Jupyter  |
+|  Xcode   UIKit    |   |  OpenAI  Python   |
+|  MVVM    VIPER    |   |  ......  ......   |
+|  TDD     Combine  |   |  ......  ......   |
++-------------------+   +-------------------+
 ```
 
 ## 🔥 GitHub Streak of Awesomeness
