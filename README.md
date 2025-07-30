@@ -10,7 +10,7 @@ Hey there, cosmic coder! I'm **Nanda Mochammad**, an iOS Developer who turns cof
 
 ## 🎉 Who’s This Guy?
 
-- 📱 **iOS Sorcerer** with **6 years** of spellbinding experience in the IT realm.
+- 📱 **iOS Sorcerer** with **7 years** of spellbinding experience in the IT realm.
 - 🛠 **Tech Stack**: Swift, SwiftUI, MVVM, VIPER – my magic wands for crafting epic apps.
 - 🧼 **Code Mantra**: Clean code or bust! I’m all about **SOLID** and **DRY** principles.
 - ✅ **Testing Ninja**: TDD, Unit Testing, UI Testing – I slay bugs like a pro.
